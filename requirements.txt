@@ -1,0 +1,7 @@
+elasticsearch==7.0.1
+pandas==0.23.0
+python_docx==0.8.10
+matplotlib==2.2.2
+PyPDF2==1.27.5
+PyQt5==5.12.2
+docx==0.2.4

@@ -1,0 +1,125 @@
+{
+	"nptel":{
+		"mappings":{
+			"properties":{
+				"COURSE LAYOUT":
+				{
+					"type":"text",
+					"fields":{
+							"keyword":{
+								"type":"keyword","ignore_above":256
+								}
+							}
+						},
+				"Category :":
+				{
+					"type":"text",
+					"fields":{
+							"keyword":{
+								"type":"keyword","ignore_above":256
+							}
+						}
+					},
+				"Course Status :":
+				{
+					"type":"text",
+					"fields":{
+							"keyword":{
+								"type":"keyword","ignore_above":256
+							}
+						}
+					},
+				"Course Type :":
+				{
+					"type":"text",
+					"fields":{
+							"keyword":{
+								"type":"keyword","ignore_above":256
+							}
+						}
+					},
+				"Duration :":
+				{
+					"type":"text",
+					"fields":{
+							"keyword":{
+								"type":"keyword","ignore_above":256
+							}
+						}
+					},
+				"End Date :":
+				{
+					"type":"text",
+					"fields":{
+							"keyword":{
+								"type":"keyword","ignore_above":256
+							}
+						}
+					},
+				"Exam Date :":
+				{
+					"type":"text",
+					"fields":{
+							"keyword":{
+								"type":"keyword","ignore_above":256
+							}
+						}
+					},
+				"Level :":
+				{
+					"type":"text",
+					"fields":{
+							"keyword":{
+								"type":"keyword","ignore_above":256
+							}
+						}
+					},
+				"Professor":
+				{	
+					"type":"text",
+					"fields":{
+							"keyword":{
+								"type":"keyword","ignore_above":256
+							}
+						}
+					},
+				"Start Date :":
+				{
+					"type":"text",
+					"fields":{
+							"keyword":{
+								"type":"keyword","ignore_above":256
+							}
+						}
+					},
+				"University":
+				{
+					"type":"text",
+					"fields":{
+							"keyword":{
+								"type":"keyword","ignore_above":256
+							}
+						}
+					},
+				"description":
+				{
+					"type":"text",
+					"fields":{
+							"keyword":{
+								"type":"keyword","ignore_above":256
+							}
+						}
+					},
+				"title":
+				{
+					"type":"text",
+					"fields":{
+							"keyword":{
+							"type":"keyword","ignore_above":256
+						}
+					}
+				}
+			}
+		}
+	}
+}
